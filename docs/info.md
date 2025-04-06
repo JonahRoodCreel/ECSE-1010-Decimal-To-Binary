@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes in a 0-9 decimal number and makes it a 4 bit binary number using 4 leds as display.
 
 ## How to test
 
-Explain how to use your project
+Connect a 10 pin dip switch (or whatever combination to get to 10 inputs) ang check to see if the leds light up accordingly.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switches, Leds
